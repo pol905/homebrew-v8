@@ -39,5 +39,5 @@
 7. Create a symlink by running:
 
     ```sh
-    brew link v8_py2@3.15
+    brew link --force v8_py2@3.15
     ```
