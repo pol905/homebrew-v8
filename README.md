@@ -27,13 +27,13 @@
 5. Tap the formula repo containing v8 by running:
 
     ```sh
-    brew tap pol905/v8/v8_py2@3.15
+    brew tap pol905/v8
     ```
 
 6. Run the following command to install v8@3.15
 
     ```sh
-    brew install v8_py2@3.15
+    brew install pol905/v8/v8_py2@3.15
     ```
 
 7. Create a symlink by running:
